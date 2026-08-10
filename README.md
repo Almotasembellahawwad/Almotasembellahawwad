@@ -24,7 +24,7 @@
 
 ## 🧠 About Me
 
-I am an Artificial Intelligence engineering student with a deep passion for building interactive, scalable, and intelligent systems. I focus on developing real-world solutions combining **Applied AI** (Computer Vision, Deep Learning, NLP) with **Modern Frontend Architectures**. 
+I am an Artificial Intelligence engineering student with a deep passion for building interactive, scalable, and intelligent systems. I focus on developing real-world solutions combining **Applied AI** (Computer Vision, Deep Learning, NLP) with **Modern Frontend Architectures**.
 
 - 🚀 **Currently Building:** [Rowad](#-rowad--under-development) — a zero-commission freelance platform integrating AI tools for the Arab tech community.
 - 🎯 **Current Focus:** Multi-modal AI systems (Vision + Language) & Distributed architecture.
@@ -93,7 +93,7 @@ I am an Artificial Intelligence engineering student with a deep passion for buil
       <h3>🌌 Your Life in Numbers</h3>
       <p>An emotional awareness experience transforming your age into raw data: days lived, heartbeats, breaths taken. Built to be a reminder, not a utility.</p>
       <p><b>Stack:</b> <code>Vue 3</code> <code>TypeScript</code> <code>Vite</code></p>
-      <a href="https://your-life-in-numbers.vercel.app/">🔗 Live Demo</a> <!-- Add your actual link here -->
+      <a href="https://your-life-in-numbers.vercel.app/">🔗 Live Demo</a>
     </td>
   </tr>
 </table>
@@ -107,22 +107,17 @@ A zero-commission freelance platform built for Arab students and developers—wi
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohasbks&show_icons=true&theme=radical&hide_border=true" height="195" />
 
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohasbks&show_icons=true&theme=radical&hide_border=true&count_private=true" height="195" />
   <img src="https://streak-stats.demolab.com/?user=mohasbks&theme=radical&hide_border=true" height="195" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohasbks&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohasbks&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohasbks&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Top Languages" />
 </div>
 
 ---
