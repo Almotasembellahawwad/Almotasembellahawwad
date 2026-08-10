@@ -108,18 +108,13 @@ A zero-commission freelance platform built for Arab students and developers—wi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohasbks&show_icons=true&theme=radical&hide_border=true" height="195" />
-  
-  <img src="https://streak-stats.demolab.com/?user=mohasbks&theme=radical&hide_border=true" height="195" />
+
+  <img src="https://github-readme-stats.vercel.app/api?Mohasbks=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150"/>
+
+  <img src="https://streak-stats.demolab.com?user=Mohasbks&theme=radical&hide_border=true" height="150"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohasbks&layout=compact&theme=radical&hide_border=true" height="150"/>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohasbks&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohasbks&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="" />
