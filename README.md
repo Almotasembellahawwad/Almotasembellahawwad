@@ -48,13 +48,13 @@ A real-time news and market intelligence dashboard that aggregates global RSS fe
 
 [Live product ↗](https://newspulse-ai-dashboard.vercel.app/)
 
-### [Verve](https://github.com/Almotasembellahawwad/Verve)
+### [Verve — In Development](https://github.com/Almotasembellahawwad/Verve)
 
 An open-source design-taste layer between language models and generated interfaces—built to detect generic visual decisions and guide output toward deliberate design systems.
 
 `Next.js` `TypeScript` `Design Systems` `AI Tooling`
 
-[Live experiment ↗](https://verve-chi.vercel.app/)
+[Follow development ↗](https://github.com/Almotasembellahawwad/Verve)
 
 ### [ARIA Voice Companion](https://github.com/Almotasembellahawwad/Aria-Voice-Companion)
 
