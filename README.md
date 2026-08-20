@@ -99,11 +99,10 @@ ENGINEERING   Voice · LLM · Distributed systems
 AVAILABLE     Selected product and client work
 ```
 
-## GitHub Activity
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Almotasembellahawwad&show_icons=true&hide_border=true&bg_color=0B0B0B&title_color=C65D32&text_color=EAE7DF&icon_color=C65D32" height="180" alt="Almotasembellah Awwad GitHub statistics" />
-  <img src="https://streak-stats.demolab.com/?user=Almotasembellahawwad&hide_border=true&background=0B0B0B&ring=C65D32&fire=C65D32&currStreakLabel=EAE7DF&sideLabels=EAE7DF&dates=8E8B83&currStreakNum=EAE7DF&sideNums=EAE7DF" height="180" alt="Almotasembellah Awwad contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=Almotasembellahawwad&hide_border=true&background=0B0B0B&ring=C65D32&fire=C65D32&currStreakLabel=EAE7DF&sideLabels=EAE7DF&dates=8E8B83&currStreakNum=EAE7DF&sideNums=EAE7DF" height="180" alt="Almotasembellah Awwad contribution activity" />
 </div>
 
 ---
