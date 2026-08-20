@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/aa26-mark.svg" width="112" alt="AA/26 — Almotasembellah Awwad monogram">
-
-<sub>AA/26 · INDEPENDENT DIGITAL STUDIO · EGYPT / WORLDWIDE</sub>
+<sub>AI ENGINEER · DIGITAL PRODUCT BUILDER · EGYPT / WORLDWIDE</sub>
 
 # ALMOTASEMBELLAH AWWAD
 
