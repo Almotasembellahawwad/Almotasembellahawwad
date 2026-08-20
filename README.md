@@ -8,7 +8,7 @@
 
 I design and engineer digital products, intelligent systems, and experimental web experiences.
 
-[Portfolio](https://almotasembellahawwad.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/almotasembellahawwad/) · [Instagram](https://www.instagram.com/almotasembellahawwad/) · [Email](mailto:235179@eru.edu.eg)
+[Portfolio](https://almotasembellahawwad.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/almotasembellahawwad/) · [Instagram](https://www.instagram.com/almotasembellahawwad/) · [Email](mailto:almotasembellahawwad@gmail.com)
 
 </div>
 
